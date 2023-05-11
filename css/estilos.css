@@ -4,3 +4,7 @@
     box-sizing: border-box;
 }
 
+footer {
+    background-color: crimson;
+    font-style: oblique;
+}
