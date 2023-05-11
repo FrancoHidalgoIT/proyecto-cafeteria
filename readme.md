@@ -120,3 +120,5 @@ git --amend -m "descripcion"
 git merge nombredelarama
 ```
 ## De ahí tengo que solucionar manualmente los conflictos que surgan cuando se superponen las lineas de código
+
+### con el comando git push sincronizo el local con el remote en github
