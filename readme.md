@@ -114,3 +114,9 @@ git switch - y el nombre de la rama a la que me voy a mover -
 git --amend -m "descripcion" 
 ```
 
+# UNIFICACIÓN DE LAS RAMAS
+## git merge (nombre de la rama) esto sirve para traer al main la rama que quiero unificar
+```sh
+git merge nombredelarama
+```
+## De ahí tengo que solucionar manualmente los conflictos que surgan cuando se superponen las lineas de código
